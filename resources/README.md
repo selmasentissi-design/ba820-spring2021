@@ -54,5 +54,9 @@ Below are some resources for association rules.
 - [Journal Article on Aprior vs FP Growth](http://www.ijcstjournal.org/volume-4/issue-4/IJCST-V4I4P28.pdf)
 
 
+## Distance and Clustering
+
+- [Great Overview of Euclidean and Cosine Distances - with python code!](https://cmry.github.io/notes/euclidean-v-cosine)
+
 
 
