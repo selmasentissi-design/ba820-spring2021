@@ -6,5 +6,5 @@ pandas-gbq==0.14.1
 pantab==1.1.1
 pip-chill==1.0.1
 pyarrow==3.0.0
-scikit-learn==0.24.1
+scikit-plot==0.3.7
 seaborn==0.11.1
