@@ -19,6 +19,7 @@ Below are links to fantastic R and python resources for all sorts of data scienc
 | RStudio 1.4 | Finally starting to see great support for python | https://blog.rstudio.com/2021/01/19/announcing-rstudio-1-4/ |
 | resumeR | Build a resume with R | https://github.com/jaredlander/resumer |
 | xaringanExtra | Extensions for xaringan (build slide decks in R!) | https://pkg.garrickadenbuie.com/xaringanExtra/#/README?id=xaringanextra|
+| jupyterlab 3 | Many great new features added, included language support | https://blog.jupyter.org/jupyterlab-3-0-is-out-4f58385e25bb |
 
 
 ## Awesome Data Viz Resources
