@@ -22,6 +22,10 @@ Below are links to fantastic R and python resources for all sorts of data scienc
 | jupyterlab 3 | Many great new features added, included language support | https://blog.jupyter.org/jupyterlab-3-0-is-out-4f58385e25bb |
 
 
+## Cheatsheets
+
+- [Great Sklearn Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf)
+
 ## Awesome Data Viz Resources
 
 Below are links to resources that make plotting easier for all sorts of tasks, especially in python!
