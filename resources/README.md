@@ -63,5 +63,14 @@ Below are some resources for association rules.
 
 - [Great Overview of Euclidean and Cosine Distances - with python code!](https://cmry.github.io/notes/euclidean-v-cosine)
 
+## Dimensionality Reduction
+
+- [Great review of PCA mechanics](https://towardsdatascience.com/pca-clearly-explained-how-when-why-to-use-it-and-feature-importance-a-guide-in-python-7c274582c37e)
+- [Recreate PCA by hand](https://sebastianraschka.com/Articles/2015_pca_in_3_steps.html)
+- [The Math behind PCA](https://towardsdatascience.com/the-mathematics-behind-principal-component-analysis-fff2d7f4b643)
+
+
+
+
 
 
