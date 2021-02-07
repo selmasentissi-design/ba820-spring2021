@@ -35,9 +35,11 @@ Below are links to resources that make plotting easier for all sorts of tasks, e
 | skplot | Useful plots for ML via sklearn objects | https://scikit-plot.readthedocs.io/en/stable/index.html |
 
 
-## Great Tutorials
+## Unrelated (But) Great Tutorials
 
-I will add resources momentarily.
+- [Modern pandas - tidyverse like features via chaining!](https://tomaugspurger.github.io/method-chaining)
+
+
 
 
 ## Podcasts
