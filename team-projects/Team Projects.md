@@ -20,4 +20,4 @@ Below are datasets, and sources of data, that are not allowed to be selected for
 - Reuters dataset from NLTK (https://www.kaggle.com/boldy717/reutersnltk)
 - Alexa reviews from Kaggle (https://www.kaggle.com/roshansharma/amazon-alexa-reviews)
 - Ecommerce Clothing Reviews from Kaggle (https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
-- 
+- Avocado Prices from Kaggle (https://www.kaggle.com/neuromusic/avocado-prices)
