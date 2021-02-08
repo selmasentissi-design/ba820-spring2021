@@ -55,6 +55,11 @@ Below are some python-based podcasts that I highly recommend.
 - [Voice Bot Podcast](https://voicebot.ai/voicebot-podcasts/)
 
 
+## Data Cleaning
+
+- [Standardization and Normalization](https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/)
+
+
 ## Assocation Rules
 
 Below are some resources for association rules.
